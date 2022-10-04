@@ -1,4 +1,4 @@
-### Personal Portfolio
+## Personal Portfolio
 
-
-My personal portfolio built with GatsbyJS. 
+![image](ss.png)
+My minimal personal portfolio built with GatsbyJS. 
